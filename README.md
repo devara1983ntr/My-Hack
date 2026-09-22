@@ -64,13 +64,13 @@ The framework is organized into modular documentation, operating rules, workflow
 ```text
 .
 ├── README.md                           # Main repository documentation & guide (this file)
+├── AGENT.md                            # Master agent system instructions & execution standard
+├── FILE-INDEX.txt                      # Complete repository documentation index
 ├── SECURITY-AUDIT.md                   # Core Mode 1: Comprehensive security audit framework
 ├── SECURITY-RESEARCH-MODE.md          # Core Mode 2: Research methodology & execution loop
 ├── DIGITAL-ASSET-DELIVERY-MODE.md      # Core Mode 3: Payment, entitlement & asset delivery audit
 │
-└── BLACKHEART-AGENT-DOCUMENTATION/    # Extracted Master Agent Documentation Framework
-    ├── AGENT.md                        # Master agent system instructions & execution standard
-    ├── FILE-INDEX.txt                  # Index of extracted documentation files
+└── BLACKHEART-AGENT-DOCUMENTATION/    # Extracted Technical Guides & Templates
     ├── README.md                       # Documentation package introduction
     │
     ├── docs/                           # Focused technical domain guides
@@ -102,7 +102,8 @@ The framework is organized into modular documentation, operating rules, workflow
 ## 📚 Complete Documentation Index
 
 ### Core Agent Instructions & Modes
-- **[`AGENT.md`](./BLACKHEART-AGENT-DOCUMENTATION/AGENT.md)**: Master agent instruction manual detailing mission lifecycle, scope intake, evidence taxonomy, and quality controls.
+- **[`AGENT.md`](./AGENT.md)**: Master agent instruction manual detailing mission lifecycle, scope intake, evidence taxonomy, and quality controls.
+- **[`FILE-INDEX.txt`](./FILE-INDEX.txt)**: Plain-text list index of all framework documentation files.
 - **[`SECURITY-AUDIT.md`](./SECURITY-AUDIT.md)**: Full-spectrum adversarial vulnerability assessment framework.
 - **[`SECURITY-RESEARCH-MODE.md`](./SECURITY-RESEARCH-MODE.md)**: Research-oriented testing methodology for structured discovery.
 - **[`DIGITAL-ASSET-DELIVERY-MODE.md`](./DIGITAL-ASSET-DELIVERY-MODE.md)**: Focused guide for auditing e-commerce, digital products, and file distribution platforms.
