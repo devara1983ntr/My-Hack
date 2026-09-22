@@ -5,13 +5,6 @@
 
 ---
 
-## 📌 Proposed Repository Description
-```text
-Comprehensive framework & operating documentation for authorized adversarial security research, deep penetration testing, business-logic audit, and digital asset delivery verification.
-```
-
----
-
 ## 📖 Executive Summary & Overview
 
 **BLACKHEART** is an advanced, evidence-driven cybersecurity research and penetration testing agent framework. It provides structured methodology, rigid evidence-handling protocols, operational modes, and execution guidelines for conducting authorized adversarial security audits across diverse targets.
@@ -158,5 +151,4 @@ Every assessment executed under the BLACKHEART framework follows a strict, 5-sta
 
 ## 📄 License & Credits
 
-- **Author / Lead Researcher**: Roshan
 - **Framework**: BLACKHEART Adversarial Security Agent Documentation
